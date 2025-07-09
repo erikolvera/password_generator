@@ -1,7 +1,6 @@
 # Password Generator
 
-## What it does
-This Python script generates a random, secure password based on the length the user chooses (up to 16 characters). It uses a mix of: <br />
+Generates a random, secure password based on the length the user chooses (up to 16 characters). It uses a mix of: <br />
 • Uppercase letters (A–Z) <br />
 • Lowercase letters (a–z) <br />
 • Numbers (0–9) <br />
