@@ -14,11 +14,11 @@ https://github.com/your-username/password_generator
 # 2. Run The Program
 python3 password_generator.py
 
-#💡Usage
+# 💡Usage
 • When prompted, enter how long you'd like your password to be. <br />
 • The script will validate your input and generate a password. <br />
 • Copy and use your new secure password anywhere you need! <br />
 
-#📚 Tech Stack
+# 📚 Tech Stack
 • Python <br />
-• Module used: **random**
+• Module used: **random** <br />
