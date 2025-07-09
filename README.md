@@ -1,9 +1,10 @@
 # Password Generator
 
-## Thank you for visiting my page! 
-This is my very first project using Python. It may be simple but it is a big step forward to learning Python for me!
-
-
-
 ## What it does
-A simple and customizable Python script that generates secure, random passwords using letters, numbers, and special characters.
+This Python script generates a random, secure password based on the length the user chooses (up to 16 characters). It uses a mix of:
+• Uppercase letters (A–Z)
+• Lowercase letters (a–z)
+• Numbers (0–9)
+• Special characters (!@#$%^&*()-_)
+
+It also checks for valid input, making sure the user enters a number between 1 and 16 — not zero, not negative, and not too long. Once a valid length is entered, the program instantly builds and displays a password using Python’s random module.
