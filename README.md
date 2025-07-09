@@ -12,7 +12,7 @@ It also checks for valid input, making sure the user enters a number between 1 a
 https://github.com/your-username/password_generator
 
 # 2. Run The Program
-python3 password_generator.py
+`python3 password_generator.py`
 
 # 💡Usage
 • When prompted, enter how long you'd like your password to be. <br />
