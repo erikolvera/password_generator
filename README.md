@@ -6,4 +6,4 @@ Generates a random, secure password based on the length the user chooses (up to 
 • Numbers (0–9) <br />
 • Special characters (!@#$%^&*()-_) <br />
 
-It also checks for valid input, making sure the user enters a number between 1 and 16 — not zero, not negative, and not too long. Once a valid length is entered, the program instantly builds and displays a password using Python’s random module.
+It also checks for valid input, making sure the user enters a number between 1 and 16; cannot be 0 or negative. Once a valid length is entered, the program instantly builds and displays a password using Python’s random module.
